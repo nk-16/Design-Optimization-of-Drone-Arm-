@@ -1,6 +1,6 @@
 # Design-Optimization-of-Drone-Arm-
 
-An exploratory team project under Professor Pawan Sharma, Mechanical Dept, IIT BHU, in which I, along with my team, tried to optimize drone arm structure using the SIMP algorithm of SOLIDWORKS and using naturally topology optimized structures like gyroids. We evaluate their strength using Ansys Mechanical by Finite Element Analysis (FEA).
+An exploratory team project under [Dr. Pawan Sharma](https://www.iitbhu.ac.in/dept/mec/people/pawanmec), in which I, along with my team, tried to optimize drone arm structure using the SIMP algorithm of SOLIDWORKS and using naturally topology optimized structures like gyroids. We evaluate their strength using Ansys Mechanical by Finite Element Analysis (FEA).
 
 * **Usage of SIMP algorithm of SOLIDWORKS**
 
